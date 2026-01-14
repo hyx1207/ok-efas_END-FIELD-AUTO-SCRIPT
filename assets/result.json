@@ -1,0 +1,229 @@
+{
+  "images": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "id": 0,
+      "file_name": "images\\54e492fc-0.png"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "id": 1,
+      "file_name": "images\\1.png"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "id": 2,
+      "file_name": "images\\2.png"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "id": 3,
+      "file_name": "images\\3.png"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "id": 4,
+      "file_name": "images\\4.png"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "id": 5,
+      "file_name": "images\\5.png"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "id": 6,
+      "file_name": "images\\6.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "change_tech_area"
+    },
+    {
+      "id": 1,
+      "name": "have_tech_or_not"
+    },
+    {
+      "id": 2,
+      "name": "in_domain_or_not"
+    },
+    {
+      "id": 3,
+      "name": "in_friend_home_or_not"
+    },
+    {
+      "id": 4,
+      "name": "in_map_or_not"
+    },
+    {
+      "id": 5,
+      "name": "in_tech_or_not"
+    },
+    {
+      "id": 6,
+      "name": "leave_domain"
+    },
+    {
+      "id": 7,
+      "name": "leave_friend_home"
+    },
+    {
+      "id": 8,
+      "name": "tech_arae_sihaogudi"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        28.61497601935563,
+        24.52712230230483,
+        38.323628597351295,
+        39.85657374124534
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1527.4485292224306
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        26.65147315386644,
+        37.756253634644125,
+        30.45882646156165,
+        34.58345921156479
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1053.3715825655474
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 7,
+      "segmentation": [],
+      "bbox": [
+        1821.4972144513436,
+        968.1008356167262,
+        27.38377438252646,
+        35.46100279751635
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 971.0560999853274
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 6,
+      "segmentation": [],
+      "bbox": [
+        1235.1893998178157,
+        677.2589823305751,
+        31.71789694666768,
+        34.86998608422451
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1106.002625151169
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        1760.1531763516778,
+        34.445092185460794,
+        15.773920720444675,
+        18.027337966222476
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 284.36179987985565
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        281.0938530199214,
+        35.13673162749018,
+        11.537434265743036,
+        11.537434265743043
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 133.11238943634163
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 5,
+      "segmentation": [],
+      "bbox": [
+        1154.0284335264214,
+        514.3292087587216,
+        25.3823553846345,
+        26.824534667852696
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 680.8698719668857
+    },
+    {
+      "id": 7,
+      "image_id": 6,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        247.54563894523326,
+        422.7991886409737,
+        33.955375253549704,
+        33.95537525354964
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1152.9675086093735
+    },
+    {
+      "id": 8,
+      "image_id": 6,
+      "category_id": 8,
+      "segmentation": [],
+      "bbox": [
+        49.290060851926974,
+        271.6430020283976,
+        197.1602434077079,
+        60.24340770791075
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 11877.60492740147
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2026-01-14 19:14:38.128953"
+  }
+}
